@@ -9,7 +9,7 @@ namespace Hangman
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Hangman");
+            Console.WriteLine("Hello Hangman Test By Mathu");
             Console.WriteLine("Press <ENTER> to Exit.");
             Console.WriteLine();
             Console.ReadLine();
