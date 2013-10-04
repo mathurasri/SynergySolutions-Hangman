@@ -3,3 +3,8 @@ C:\Projects\SynergySolutions-Hangman\SynergySolutions-Hangman\Hangman\Hangman\bi
 C:\Projects\SynergySolutions-Hangman\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
 C:\Projects\SynergySolutions-Hangman\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
 C:\Projects\SynergySolutions-Hangman\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\mathu\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\mathu\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\mathu\SynergySolutions-Hangman\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\mathu\SynergySolutions-Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\mathu\SynergySolutions-Hangman\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
